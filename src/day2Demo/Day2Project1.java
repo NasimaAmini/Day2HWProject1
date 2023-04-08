@@ -6,6 +6,10 @@ public class Day2Project1 {
 		System.out.println("day2 homework");
 		
 		System.out.println("test");
+	}
+		public void sum(int a, int b) {
+			System.out.println(a+b);
+			
 		
 		
 	}
